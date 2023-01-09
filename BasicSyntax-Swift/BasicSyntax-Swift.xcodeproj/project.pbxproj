@@ -33,6 +33,7 @@
 		F377E7F4296C5AEF00794C88 /* struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct.swift; sourceTree = "<group>"; };
 		F3CDF7A0296C723100C1F337 /* propertyObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = propertyObserver.swift; sourceTree = "<group>"; };
 		F3CDF7A2296C743C00C1F337 /* parameter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parameter.swift; sourceTree = "<group>"; };
+		F3CDF7A4296C7F2800C1F337 /* generic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = generic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				F36EFDAC296B4CCD00694E2E /* main.swift */,
 				F3CDF7A0296C723100C1F337 /* propertyObserver.swift */,
 				F3CDF7A2296C743C00C1F337 /* parameter.swift */,
+				F3CDF7A4296C7F2800C1F337 /* generic.swift */,
 				F377E7F2296C5AEA00794C88 /* class.swift */,
 				F377E7F4296C5AEF00794C88 /* struct.swift */,
 				F36EFDBB296B4E0800694E2E /* optional.swift */,
