@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F36EFDAD296B4CCD00694E2E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F36EFDAC296B4CCD00694E2E /* main.swift */; };
-		F377E7F3296C5AEA00794C88 /* class.swift in Sources */ = {isa = PBXBuildFile; fileRef = F377E7F2296C5AEA00794C88 /* class.swift */; };
+		F3CDF7A1296C723100C1F337 /* propertyObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CDF7A0296C723100C1F337 /* propertyObserver.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,7 @@
 		F36EFDBB296B4E0800694E2E /* optional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optional.swift; sourceTree = "<group>"; };
 		F377E7F2296C5AEA00794C88 /* class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class.swift; sourceTree = "<group>"; };
 		F377E7F4296C5AEF00794C88 /* struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct.swift; sourceTree = "<group>"; };
+		F3CDF7A0296C723100C1F337 /* propertyObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = propertyObserver.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				F36EFDAC296B4CCD00694E2E /* main.swift */,
+				F3CDF7A0296C723100C1F337 /* propertyObserver.swift */,
 				F377E7F2296C5AEA00794C88 /* class.swift */,
 				F377E7F4296C5AEF00794C88 /* struct.swift */,
 				F36EFDBB296B4E0800694E2E /* optional.swift */,
@@ -133,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F377E7F3296C5AEA00794C88 /* class.swift in Sources */,
+				F3CDF7A1296C723100C1F337 /* propertyObserver.swift in Sources */,
 				F36EFDAD296B4CCD00694E2E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
